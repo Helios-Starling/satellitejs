@@ -4,7 +4,7 @@
     "": {
       "name": "@broker-satellite/satellite",
       "dependencies": {
-        "@helios-starling/starling": "^0.4.0",
+        "@helios-starling/starling": "^0.4.1",
         "sift": "^17.1.3",
       },
       "devDependencies": {
@@ -16,9 +16,9 @@
     },
   },
   "packages": {
-    "@helios-starling/starling": ["@helios-starling/starling@0.4.0", "", { "dependencies": { "@helios-starling/utils": "0.4.0", "@killiandvcz/pulse": "^1.0.2", "zod": "^3.24.1" }, "peerDependencies": { "typescript": "^5.0.0" } }, "sha512-YkNdiBjPSa+jxtQZyeN0jjVU7nOj+f3euhuH/SNnL/IqaulyXiWtuuW8SqZXgY3cEL+/N0Gmm33l3YdpkzWgRg=="],
+    "@helios-starling/starling": ["@helios-starling/starling@0.4.1", "", { "dependencies": { "@helios-starling/utils": "0.4.1", "@killiandvcz/pulse": "^1.0.2", "zod": "^3.24.1" }, "peerDependencies": { "typescript": "^5.0.0" } }, "sha512-aBP/6OLJevOrnMt8G8uc9au0uGFWESVnnwZj9hpUWtkF/JhRQunH7gJ+Hz2Uwgd93JLCPYuI4qWoqTOzf8iMNA=="],
 
-    "@helios-starling/utils": ["@helios-starling/utils@0.4.0", "", { "dependencies": { "@killiandvcz/buffer": "^1.0.2", "@killiandvcz/maestro": "^1.0.0", "@killiandvcz/pulse": "^1.0.2" } }, "sha512-pSKe3cAKumrCtq3CG3pi71cJw5EDyQB/2I2IlEFkosslERkuUhDrgebN+dXAclpw6ewGr1gG4zOsTKGTpY9dHQ=="],
+    "@helios-starling/utils": ["@helios-starling/utils@0.4.1", "", { "dependencies": { "@killiandvcz/buffer": "^1.0.2", "@killiandvcz/maestro": "^1.0.0", "@killiandvcz/pulse": "^1.0.2" } }, "sha512-LR/Li+ZnE8VVnGCJ/0/T4IMYsP1fsOftvTuc1aD4DWymC15KR5rF6Lf/QonHEQyo/yEJzFr4YEKcPqte4Q4ouA=="],
 
     "@killiandvcz/buffer": ["@killiandvcz/buffer@1.0.2", "", {}, "sha512-Rp5NubO6AH+NT0l47Hixyt8fm8LJYMPZrhqWg0T8TXCwZKxbzNnUyp4XF/tNCmS/Qd2w26Hn6zv+ivzLh1Podg=="],
 
